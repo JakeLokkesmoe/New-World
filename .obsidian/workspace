@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "4b77bfac35abd13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a33eb431d2f9ca0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Faction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a291e0eda9f55ad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22cee9d22b8e86b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d8b642d701585a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "413a86acf71e9c28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b9987e6c11f8645",
+    "type": "split",
+    "children": [
+      {
+        "id": "0512f5d6def971fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54f39c0554e249ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Faction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a33eb431d2f9ca0",
+  "lastOpenFiles": [
+    "Templates/Faction.md",
+    "Templates/Location.md",
+    "Templates/Tavern.md"
+  ]
+}
