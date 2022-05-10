@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/City.md",
+            "file": "Locations/Emerald Coast/Emerald Coast.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/City.md",
+                "file": "Locations/Emerald Coast/Emerald Coast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "0a33eb431d2f9ca0",
   "lastOpenFiles": [
+    "Locations/Emerald Coast/Emerald Coast.md",
     "Templates/City.md",
     "Templates/Tavern.md",
     "Templates/Faction.md",
