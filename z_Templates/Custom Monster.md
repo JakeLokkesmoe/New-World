@@ -1,14 +1,14 @@
 ```statblock
 image: [[Wikilink To Image]]
-name: string
-size: string
-type: string
-subtype: string
-alignment: string
-ac: number
-hp: number
-hit_dice: string
-speed: string
+name: 
+size: 
+type: 
+subtype: 
+alignment: 
+ac: 9
+hp: 9
+hit_dice: 
+speed: 
 stats: [10, 10, 10, 10, 10, 10]
 saves:
   - <ability-score>: number

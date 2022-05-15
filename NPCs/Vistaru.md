@@ -5,4 +5,7 @@ The slumbering giant sleeps deep in his lair at the bottom of the fjord near [[T
 
 ```statblock
 monster: Adult Green Dragon
+name: Vistaru
 ```
+
+#Monster #Dragon #Emerald-Coast

@@ -10,6 +10,12 @@ Description
 **First Last** - *Title*
 Description
 
+## Districts
+```dataview
+list WITHOUT ID link(file.link, Title)
+FROM "Locations/Emerald Coast/Traestinfjord/Districts"
+```
+
 ## Religion
 Traestinfjord is an isolated place. Most of the locals worship minor elemental spirits who are said to inhabit the mountains around them.
 
@@ -24,3 +30,9 @@ monster: Wolf
 ```
 ## Slumbering Serpent
 Deep beneath the waters of the fjord, [[Vistaru]], an Adult Green Dragon slumbers in his underwater lair. Will he wake? And how will he feel when he finds the population above has all but forgotten his name?
+
+```statblock
+monster: Hill Giant
+name: Bob
+
+```

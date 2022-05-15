@@ -1,5 +1,31 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "recite": {
+      "type": "recite",
+      "color": "94, 94, 94",
+      "icon": {
+        "type": "obsidian",
+        "name": "PersonStanding"
+      },
+      "command": false,
+      "title": "Recite",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "choice": {
+      "type": "choice",
+      "color": "189, 239, 231",
+      "icon": {
+        "name": "street-view",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": null,
+      "injectColor": true,
+      "noTitle": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.0.3",

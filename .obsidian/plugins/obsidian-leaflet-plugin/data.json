@@ -10,7 +10,23 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#f07070",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
