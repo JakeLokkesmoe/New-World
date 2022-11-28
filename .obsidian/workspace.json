@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "4b77bfac35abd13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e40f0a0927c00634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d9d309f6d49236",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a291e0eda9f55ad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22cee9d22b8e86b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d8b642d701585a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "413a86acf71e9c28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "7b9987e6c11f8645",
+    "type": "split",
+    "children": [
+      {
+        "id": "0512f5d6def971fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54f39c0554e249ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09d0c97e668fdb80",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb15455340ef5fa2",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "744e5a37c3ace816",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6d5f16a148d8abc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce6dc0089120c013",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "active": "c4d9d309f6d49236",
+  "lastOpenFiles": [
+    "z_Attachments/Map_of_Asos_.png",
+    "0. Players/0. Players.md",
+    "Locations/Emerald Coast/Traestinfjord/Traestinfjord.md",
+    "Locations/Emerald Coast/Traestinfjord/Districts/Fishing Hut.md",
+    "Locations/Emerald Coast/Emerald Coast.md",
+    "Locations/Sample Map.md",
+    "NPCs/Vistaru.md",
+    "Locations/Emerald Coast/Fancy City.md",
+    "z_Templates/Custom Monster.md",
+    "z_Templates/Admonitions/Choice.md"
+  ]
+}
